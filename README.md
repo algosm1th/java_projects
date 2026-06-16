@@ -1,5 +1,5 @@
 #NOVA-APP
-<p>A beautiful virtual assistant with user friendly user interface that helps in launching any website or application in your pc.<\p> <br> 
+A beautiful virtual assistant with user friendly user interface that helps in launching any website or application in your pc. <br> 
   <p>Just drop a text and it will let you save the minutes you spend in navigating through your browser and systems!<p/>
 #StopWatch
 <p>
